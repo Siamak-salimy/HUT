@@ -23,7 +23,6 @@ Here’s a detailed list of the best Python libraries with descriptions and link
    [https://docs.python.org/3/library/logging.html](https://docs.python.org/3/library/logging.html)
 
 ---
-
 ### **Data Science and Analysis**
 1. **NumPy**: A fundamental library for numerical computing, supporting arrays, matrices, and mathematical operations.  
    [https://numpy.org/doc/](https://numpy.org/doc/)
