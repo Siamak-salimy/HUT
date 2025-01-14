@@ -40,7 +40,6 @@ Here’s a detailed list of the best Python libraries with descriptions and link
    [https://scipy.org/docs/](https://scipy.org/docs/)
 
 ---
-
 ### **Machine Learning and AI**
 1. **scikit-learn**: A robust library for traditional machine learning algorithms like classification, regression, and clustering.  
    [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
