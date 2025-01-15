@@ -93,7 +93,6 @@ Here’s a detailed list of the best Python libraries with descriptions and link
    [https://altair-viz.github.io/](https://altair-viz.github.io/)
 
 ---
-
 ### **Automation and Testing**
 1. **Selenium**: A tool for browser automation and web testing.  
    [https://www.selenium.dev/documentation/](https://www.selenium.dev/documentation/)
