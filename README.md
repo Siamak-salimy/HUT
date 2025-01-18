@@ -81,7 +81,6 @@ Here’s a detailed list of the best Python libraries with descriptions and link
    [https://docs.scrapy.org/](https://docs.scrapy.org/)
 
 ---
-
 ### **Data Visualization**
 1. **Plotly**: A library for creating interactive and dynamic visualizations.  
    [https://plotly.com/python/](https://plotly.com/python/)
