@@ -127,7 +127,6 @@ Here’s a detailed list of the best Python libraries with descriptions and link
    [https://huggingface.co/docs/transformers/index](https://huggingface.co/docs/transformers/index)
 
 ---
-
 ### **Game Development**
 1. **Pygame**: A library for creating 2D games.  
    [https://www.pygame.org/docs/](https://www.pygame.org/docs/)
