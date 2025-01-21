@@ -1,7 +1,6 @@
 # 
 Hi.
 Here’s a detailed list of the best Python libraries with descriptions and links to their official documentation:
-
 ---
 ### **General Purpose Libraries**
 1. **os**: Provides functions for interacting with the operating system, like file and directory manipulation.  
