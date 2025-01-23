@@ -78,7 +78,6 @@ Here’s a detailed list of the best Python libraries with descriptions and link
 
 6. **Scrapy**: A powerful framework for large-scale web scraping.  
    [https://docs.scrapy.org/](https://docs.scrapy.org/)
-
 ---
 ### **Data Visualization**
 1. **Plotly**: A library for creating interactive and dynamic visualizations.  
