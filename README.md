@@ -59,7 +59,6 @@ Here’s a detailed list of the best Python libraries with descriptions and link
    [https://lightgbm.readthedocs.io/](https://lightgbm.readthedocs.io/)
 
 ---
-
 ### **Web Development**
 1. **Flask**: A lightweight and flexible framework for building web applications.  
    [https://flask.palletsprojects.com/](https://flask.palletsprojects.com/)
