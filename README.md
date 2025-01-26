@@ -37,7 +37,6 @@ Here’s a detailed list of the best Python libraries with descriptions and link
 
 5. **SciPy**: A library for scientific and technical computing, including optimization, integration, and interpolation.  
    [https://scipy.org/docs/](https://scipy.org/docs/)
-
 ---
 ### **Machine Learning and AI**
 1. **scikit-learn**: A robust library for traditional machine learning algorithms like classification, regression, and clustering.  
