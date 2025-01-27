@@ -6,6 +6,7 @@ Here’s a detailed list of the best Python libraries with descriptions and link
 1. **os**: Provides functions for interacting with the operating system, like file and directory manipulation.  
    [https://docs.python.org/3/library/os.html](https://docs.python.org/3/library/os.html)
 
+
 2. **sys**: Offers access to system-specific parameters and functions, such as command-line arguments.  
    [https://docs.python.org/3/library/sys.html](https://docs.python.org/3/library/sys.html)
 
