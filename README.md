@@ -22,7 +22,6 @@ Here’s a detailed list of the best Python libraries with descriptions and link
 6. **logging**: A flexible logging system for tracking events in your programs.  
    [https://docs.python.org/3/library/logging.html](https://docs.python.org/3/library/logging.html)
 
-
 ---
 ### **Data Science and Analysis**
 1. **NumPy**: A fundamental library for numerical computing, supporting arrays, matrices, and mathematical operations.  
